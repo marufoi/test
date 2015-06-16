@@ -8,7 +8,6 @@ void setup(){
 
 
 
-asjaosoas
 
  }
  
